@@ -1,6 +1,3 @@
-Here's a basic `README.md` for your React cryptocurrency price tracker app:
-
-```markdown
 # Cryptocurrency Price Tracker App
 
 A simple React application that fetches real-time cryptocurrency prices and displays them in a stylish interface. The app uses the CoinGecko API to display information about the latest prices, 24-hour price changes, and coin logos for multiple cryptocurrencies.
