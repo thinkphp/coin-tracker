@@ -18,11 +18,6 @@ A simple React application that fetches real-time cryptocurrency prices and disp
 - Cardano
 - Dogecoin
 
-## Screenshots
-
-![Screenshot 1](./screenshot1.png)  
-![Screenshot 2](./screenshot2.png)
-
 ## Installation
 
 1. Clone the repository:
