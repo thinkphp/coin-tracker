@@ -22,7 +22,7 @@ A simple React application that fetches real-time cryptocurrency prices and disp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-price-tracker.git
+   git clone https://github.com/thinkphp/crypto-price-tracker.git
    ```
 
 2. Navigate into the project directory:
